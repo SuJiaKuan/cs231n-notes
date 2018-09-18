@@ -17,7 +17,12 @@
 
 - [GAN Lectures by Dr. Hung-yi Lee (Tranditional Chinese)](https://www.youtube.com/watch?v=DQNNMiAP5lw&list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw&index=1)
 
-### Reinforcement Learning
+## Reinforcement Learning
 
-- Reinforcement Learning courses on freeCodeCamp: [1](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419), [2](https://medium.freecodecamp.org/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe), [3](https://medium.freecodecamp.org/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8)
+- Reinforcement Learning courses on freeCodeCamp
+  - [Introdution](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
+  - Value-Based (Q-Learning): [1](https://medium.freecodecamp.org/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe) [2](https://medium.freecodecamp.org/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8)
+  - Policy-Based (Policy Gradient): [1](https://medium.freecodecamp.org/an-introduction-to-policy-gradients-with-cartpole-and-doom-495b5ef2207f)
+  - [Actor-Critic](https://medium.freecodecamp.org/an-intro-to-advantage-actor-critic-methods-lets-play-sonic-the-hedgehog-86d6240171d)
+- [Deep Reinforcement Learning Lectures by Dr. Hung-Yi Lee (Tranditional Chinese)](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_&index=1)
 - [Everything You Need to Know to Get Started in Reinforcement Learning](https://joshgreaves.com/reinforcement-learning/introduction-to-reinforcement-learning/), [Understanding RL: The Bellman Equations](https://joshgreaves.com/reinforcement-learning/understanding-rl-the-bellman-equations)
