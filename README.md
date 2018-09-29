@@ -26,3 +26,10 @@
   - [Actor-Critic](https://medium.freecodecamp.org/an-intro-to-advantage-actor-critic-methods-lets-play-sonic-the-hedgehog-86d6240171d)
 - [Deep Reinforcement Learning Lectures by Dr. Hung-Yi Lee (Tranditional Chinese)](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_&index=1)
 - [Everything You Need to Know to Get Started in Reinforcement Learning](https://joshgreaves.com/reinforcement-learning/introduction-to-reinforcement-learning/), [Understanding RL: The Bellman Equations](https://joshgreaves.com/reinforcement-learning/understanding-rl-the-bellman-equations)
+
+## Weak Supervision
+
+- [Weak Supervision: The New Programming Paradigm for Machine Learning](https://hazyresearch.github.io/snorkel/blog/ws_blog_post.html)
+- [Data Programming: Machine Learning with Weak Supervision](https://hazyresearch.github.io/snorkel/blog/weak_supervision.html)
+- [Snorkel: A system for quickly generating training data with weak supervision](https://github.com/HazyResearch/snorkel)
+  - [Images Turorial](https://github.com/HazyResearch/snorkel/blob/master/tutorials/images/Images_Tutorial.ipynb)
