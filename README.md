@@ -8,6 +8,9 @@
 
 ## Generative Models
 
+- [Generative Models (from OpenAI)](https://blog.openai.com/generative-models/)
+- [Generating custom photo-realistic faces using AI](https://blog.insightdatascience.com/generating-custom-photo-realistic-faces-using-ai-d170b1b59255)
+
 ### Variational Autoencoder
 
 - [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
